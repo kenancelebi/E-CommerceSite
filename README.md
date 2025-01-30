@@ -9,3 +9,4 @@ Responsive Tasarım: Uygulama, Tailwind CSS kullanılarak tam duyarlı hale geti
 Sepet Yönetimi: Kullanıcıların ürünleri sepete eklemesi, çıkarması ve sepetteki ürünleri görüntülemesi.
 Kullanıcı Doğrulama: Basit giriş ve kayıt olma işlevselliği.
 # E-ticaret-sitesi
+# E-CommerceSite
